@@ -10,7 +10,7 @@ This repository contains a collection of VBA macro scripts designed for Red Team
 ## Features
 1. **Reverse Shell**: Creates a PowerShell-based reverse shell to connect to a remote server.
 2. **Persistence**: Adds a registry key to achieve persistence.
-3. **Keylogger**: Captures keystrokes and saves them to a file.
+3. **Hidden Command Execution**: Executes hidden shell commands.
 4. **Command Execution**: Runs a PowerShell command and saves its output.
 5. **Download & Execute**: Downloads and executes a payload from a remote server.
 
