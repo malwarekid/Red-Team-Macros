@@ -1,4 +1,4 @@
-Sub Auto_Open()
+Sub AutoOpen()
     Dim objXMLHTTP As Object
     Dim objADOStream As Object
     Dim strFilePath As String
